@@ -2,4 +2,4 @@
 #### Table of Contents<br>
 ---
 #### Profile Structure
-+ [Entry Format](https://github.com/shoryuker/documentation/entryformat.md)<br>
++ [Entry Format](https://github.com/shoryuker/documentation/profilestructure/entryformat.md)<br>
