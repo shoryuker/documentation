@@ -80,7 +80,7 @@ Filename: 5434567.json
                 "setType": "ft1",
                 "endScore": "L",
                 "datePlayed": "03132024",
-                "entryName": "tore up  JonathanDingusTeague, he is so trash",
+                "entryName": "tore up JonathanDingusTeague, he is so trash",
                 "vodRedirect": "N/A",
                 "charactersPlayed": {
                     "r1": "bryan"
