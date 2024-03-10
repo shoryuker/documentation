@@ -45,7 +45,7 @@ Filename: 5434567.json
                 "gameType": "ranked",
                 "setType": "ft3",
                 "endScore": "W, W, W",
-                "datePlayed": 03102024,
+                "datePlayed": "03102024",
                 "entryName": "vs. Merlinksz",
                 "vodRedirect": "N/A",
                 "charactersPlayed": {
@@ -63,7 +63,7 @@ Filename: 5434567.json
                 "gameType": "casual",
                 "setType": "ft1",
                 "endScore": "L",
-                "datePlayed": 03152024,
+                "datePlayed": "03152024",
                 "entryName": "vs. USERKID",
                 "vodRedirect": "N/A",
                 "charactersPlayed": {
@@ -79,7 +79,7 @@ Filename: 5434567.json
                 "gameType": "casual",
                 "setType": "ft1",
                 "endScore": "L",
-                "datePlayed": 03132024,
+                "datePlayed": "03132024",
                 "entryName": "vs. JonathanDingusTeague",
                 "vodRedirect": "N/A",
                 "charactersPlayed": {
