@@ -9,22 +9,22 @@ Example: 8374464.json
 Each entries in each profile have the following contents with attributes or booleans that gets pulled from the database.<br>
 
 ## Contents for Entry
-Game Type<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Casual<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ranked<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tournament<br>
-Set Type<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First to ??? - Example: FT[UserInput] = FT5<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Best of ??? - Example: BO[UserInput] = BO3<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Continuous Sets<br>
-End Score<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Round W/L Count *(If Game Type is Ranked or Casual)* - Example: [W/L/D], [W/L/D], [W/L/D] = W, L, W<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Placement *(If Game Type is Tournament)* - Example: [userInput] out of [userInput] = 3rd out of 10<br>
-Date Played</br>
-***(Optional)*** Entry Name - Example: [userInput] = vs. Hollis <br> 
-***(Optional)*** VOD Link<br>
-Character(s) Played<br>
-Miscellaneous Content **(Varies Between Game Pages)**<br>
+- Game Type<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Casual<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Ranked<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Tournament<br>
+- Set Type<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- First to ??? - Example: FT[UserInput] = FT5<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Best of ??? - Example: BO[UserInput] = BO3<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Continuous Sets<br>
+- End Score<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Round W/L Count *(If Game Type is Ranked or Casual)* - Example: [W/L/D], [W/L/D], [W/L/D] = W, L, W<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Placement *(If Game Type is Tournament)* - Example: [userInput] out of [userInput] = 3rd out of 10<br>
+- Date Played</br>
+***- (Optional)*** Entry Name - Example: [userInput] = vs. Hollis <br> 
+***- (Optional)*** VOD Link<br>
+- Character(s) Played<br>
+- Miscellaneous Content **(Varies Between Game Pages)**<br>
 
 # Record & Entry Example
 Filename: 5434567.json
